@@ -1,3 +1,5 @@
+<img width="100%" alt="Rajesh Kumar" src="![github-header-image](https://github.com/user-attachments/assets/0b430050-d9e3-4944-8c02-c43683b00aa8)
+">
   <p align="center"><h1 align='center'>RAJESH KUMAR OJHA</h1><h4 align='center'>FULL-STACK DEVELOPER</h4> </p>
 <div>
 <img align="right" width="400" height='400' alt="Rajesh Kumar" src="https://i.pinimg.com/736x/e7/43/a0/e743a0061fe609e47d02adaa1ffaf7fc.jpg">
