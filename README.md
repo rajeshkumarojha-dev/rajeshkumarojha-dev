@@ -1,13 +1,13 @@
   <p align="center"><h1 align='center'>RAJESH KUMAR OJHA</h1><h4 align='center'>FULL-STACK DEVELOPER</h4> </p>
 <div>
 <img align="right" width="400" height='400' alt="Rajesh Kumar" src="https://i.pinimg.com/736x/e7/43/a0/e743a0061fe609e47d02adaa1ffaf7fc.jpg">
-<h2> / ABOUT ME /</h2>
+<h3> / ABOUT ME /</h3>
 <ul>
 <li>⭐ currently working on <strong>web-development</strong></li>
 <li>💀 mostly working on <strong>private repositories</strong></li>
 <li>👾 a <strong>student</strong> working his way around things</li>
 </ul>
-<h2> / CURRENT SKILLS / </h2>
+<span><h3> / CURRENT SKILLS /</h3> </span>
 <ul>
 <li>
 <h4> languages </h4>
