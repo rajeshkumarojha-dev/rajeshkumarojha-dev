@@ -1,4 +1,4 @@
-  <p align="center"><h1 align='center'>RAJESH KUMAR OJHA</h1><h4 align='center'>FULL-STACK DEVELOPER</h4> </p>
+  <p align="center"><h2 align='center'>RAJESH KUMAR OJHA</h2><h4 align='center'>FULL-STACK DEVELOPER</h4> </p>
 <div>
 <img align="right" width="500" height='600' alt="Rajesh Kumar" src="https://i.pinimg.com/736x/e7/43/a0/e743a0061fe609e47d02adaa1ffaf7fc.jpg">
 <h2> / ABOUT ME /</h2>
